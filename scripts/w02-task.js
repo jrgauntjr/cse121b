@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 const fullName = 'Joseph Gaunt';
 let currentYear = 2024;
-let profilePicture = 'images/_MGL5316.JPG';
+let profilePicture = 'images/joseph.JPG';
 
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name');
