@@ -196,6 +196,10 @@ footer {
     justify-content: right;
     gap: 1rem;
 }
+.completed{
+    text-decoration: line-through;
+    color: #999;
+}
 
 /* ID Selectors */
 
